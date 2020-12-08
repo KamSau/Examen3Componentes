@@ -1,0 +1,9 @@
+server:
+  port : 2250
+
+pricing:
+ item:
+   tasa: 15
+   camiseta: 9
+   almohadon: 8
+   vaso: 13
